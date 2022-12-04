@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/1 - Hallo Welt/NameGenerator" vcs="" />
     <mapping directory="$PROJECT_DIR$/1 - Hallo Welt/name_generator" vcs="Git" />
   </component>
 </project>
