@@ -9,6 +9,7 @@ Kapitel die noch nicht erstellt (aber von mir geplant) sind, sind im folgenden d
 0) Installation
 1) Das erste kleine Rustprogramm. Von "Hallo Welt" zur Verarbeitung von Kommandozeilenargumenten
 2) ~~Erste zufällig Namen aus einer Liste auswählen~~
-3) ~~Erstellen eines Webservice~~
-4) ~~Anbinden einer Datenbank~~
-5) ~~GUI mit Bevy~~
+3) ~~Typen und Structs~~
+4) ~~Erstellen eines Webservice~~
+5) ~~Anbinden einer Datenbank~~
+6) ~~GUI mit Bevy~~
